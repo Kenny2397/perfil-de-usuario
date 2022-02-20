@@ -10,6 +10,7 @@
     background-color:black;
     height:80px;
     width:100%;
+    /* z-index:2; */
 }
 .nav{
     width: 1080px;
@@ -208,4 +209,9 @@
     height:60px;
     border-radius:50%;
     margin-right:30px;
+}
+.conexiones-footer{
+    border-top: 3px solid rgb(174, 205, 212);
+    padding:10px;
+    
 }
